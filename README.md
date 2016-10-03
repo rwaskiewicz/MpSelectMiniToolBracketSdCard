@@ -40,6 +40,10 @@ The following settings were used:
 * Build Plate Adhesion
     * Build Plate Adhesion Type: Skirt
 
+# Thingiverse
+
+http://www.thingiverse.com/thing:1803944
+
 # Credits
 
 This design is a derivative of the Monoprice MP Select Mini Tool Bracket/Holder by eburgess4, available at 
